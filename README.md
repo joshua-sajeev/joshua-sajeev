@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshua-sajeev&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-sajeev" /> </p>
 
 - 🔭 I’m currently working on **some personal projects**
-- 🌱 I’m currently learning **Rust**
-- 🤝 I’m looking for help with **WASM**
+- 🌱 I’m currently learning **Golang**
+- 🤝 I’m looking for help with **Backend Development**
 - 📫 How to reach me **joshuasajeevnv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,6 +24,9 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<a href="https://golang.org" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Go_gopher_logo.svg/120px-Go_gopher_logo.svg.png" alt="golang" width="40" height="40" />
+</a>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -43,6 +46,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/120px-Rust_programming_language_black_logo.svg.png" alt="rust" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 

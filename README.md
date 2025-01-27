@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">A passionate gopher from India</h3>
 
-- 🔭 I’m currently working on [GoTasker](https://github.com/joshua-sajeev/GoTasker)
+- 🔭 I’m currently working on [CloudSpend](https://github.com/joshua-sajeev/CloudSpend)
 
 - 🌱 I’m currently learning **Golang**
 

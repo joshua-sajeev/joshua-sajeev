@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">Golang Developer building scalable applications</h3>
 
-- 🔭 I’m currently working on [tessera]([https://github.com/joshua-sajeev/taskflow](https://github.com/joshua-sajeev/tessera))
+- 🔭 I’m currently working on [tessera](https://github.com/joshua-sajeev/tessera)
 
 - 🌱 I’m currently learning **Golang**
 
